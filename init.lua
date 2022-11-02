@@ -1,0 +1,8 @@
+ require("alexnua.plugins-setup")
+ require("alexnua.core.options")
+ require("alexnua.core.keymaps")
+ require("alexnua.core.colorscheme")
+ require("alexnua.plugins.comment")
+ require("alexnua.plugins.nvim-tree")
+ require("alexnua.plugins.lualine")
+ require("alexnua.plugins.telescope")
