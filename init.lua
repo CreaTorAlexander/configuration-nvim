@@ -6,3 +6,4 @@
  require("alexnua.plugins.nvim-tree")
  require("alexnua.plugins.lualine")
  require("alexnua.plugins.telescope")
+ require("alexnua.plugins.nvim-cmp")
